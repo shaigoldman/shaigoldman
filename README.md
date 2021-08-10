@@ -2,7 +2,9 @@
 
 😄 I am an undergraduate student at Columbia University majoring in Computer Science.
 
-🔭 I’m currently working on analyzing Human intracranial EEG data using python with the [Electrophysiology, Memory, and Navigation Laboratory](http://orion.bme.columbia.edu/jacobs/) at Columbia.
+💻 I’m currently working on analyzing Human intracranial EEG data using python with the [Electrophysiology, Memory, and Navigation Laboratory](http://orion.bme.columbia.edu/jacobs/) at Columbia.
+
+🔭 In high school I worked for the [Computational Memory Lab](http://memory.psych.upenn.edu/Main_Page) at Penn, analyzing behavioral memory data in human free recall.
 
 
 <!--
