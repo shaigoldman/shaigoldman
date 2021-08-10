@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+😄 I am an undergraduate student at Columbia University majoring in Computer Science.
+🔭 I’m currently working on analyzing Human intracranial EEG data using python with the [Electrophysiology, Memory, and Navigation Laboratory](http://orion.bme.columbia.edu/jacobs/) at Columbia.
+
+
 <!--
 **shaigoldman/shaigoldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
