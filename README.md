@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-😄 I am an undergraduate student at Columbia University majoring in Computer Science.
+😄 I am an undergraduate student at Columbia University majoring in Computer Science and graduating in 2024.
 
 ☁️ This summer I am interning at Oracle Cloud Infrastructure for the Compute Imaging team!
 
