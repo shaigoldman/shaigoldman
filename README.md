@@ -2,7 +2,9 @@
 
 😄 I am an undergraduate student at Columbia University majoring in Computer Science and graduating in 2024.
 
-🖼️ Last summer I am interned at [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/) for the Compute Imaging team!
+📈 Last Summer I interned at [Susquehanna International Group](https://sig.com/) and designed an Arrow Flight server for historical market data!
+
+🖼️ In 2022 I interned at [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/) for the Compute Imaging team.
 
 🧠 From 2020-21 I was creating algorithms to analyze human intracranial EEG data using python with the [Electrophysiology, Memory, and Navigation Laboratory](http://orion.bme.columbia.edu/jacobs/) at Columbia.
 
